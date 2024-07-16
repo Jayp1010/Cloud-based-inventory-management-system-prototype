@@ -13,7 +13,7 @@ This project is a cloud-based inventory management system developed using Python
 
 1. Clone the repository:
 
-    git clone https://github.com/Jayp1010/cloud_based_inventory_management_system_prototype.git
+    git clone https://github.com/Jayp1010/Cloud-based-inventory-management-system-prototype
     cd cloud_inventory_management
 
 
